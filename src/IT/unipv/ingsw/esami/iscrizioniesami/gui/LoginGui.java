@@ -105,7 +105,5 @@ public	LoginGui() {
 
 
 
-	public static void main(String[] args) {
-		LoginGui l=new LoginGui();
-	}
+
 }
